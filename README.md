@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td valign="top" width="30%">
-      <img src="https://thumbs.dreamstime.com/b/anonymous-hacker-white-hoodie-concept-hat-ethical-hacking-cybersecurity-cybercrime-cyberattack-etc-idea-272445453.jpg" width="200px" style="border-radius: 10px;" alt="Foto de Edin">
+      <img src="Foto.png" width="200px" style="border-radius: 10px;" alt="Foto de Edin">
       <br><br>
       <p>📍 <b>Ubicación:</b> Estanzuelas,Usulutan, El Salvador</p>
       <p>📧 <b>Email:</b> <a href="mailto:Saraviaivan2026@email.com">Saraviaivan2026@email.com</a></p>
