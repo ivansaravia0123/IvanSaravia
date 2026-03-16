@@ -39,7 +39,9 @@
           <img src="https://img.shields.io/badge/Descargar-PDF-red?style=flat-square&logo=adobe-acrobat-reader" alt="PDF">
         </a>
       </p>
-
+      </td>
+  </tr>
+</table>
       <h2 style="margin-top: 30px; border-bottom: 2px solid #eee; padding-bottom: 10px;">🚀 Mis Proyectos</h2>
 
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 15px; margin-top: 15px;">
