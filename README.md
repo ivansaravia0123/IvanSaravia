@@ -18,7 +18,7 @@
       <p>
         Técnico en Ingeniería de Sistemas - ITCA-FEPADE SAN MIGUEL 
         <br>
-        <a href="URL_DE_TU_PDF_EN_GITHUB">
+        <a href="https://github.com/ivansaravia0123/IvanSaravia/blob/main/Titulo_tecnico.pdf">
           <img src="https://img.shields.io/badge/Ver_Título-PDF-red?style=flat-square&logo=adobe-acrobat-reader" alt="Título PDF">
         </a>
       </p>
